@@ -8,6 +8,7 @@ class StudyspringApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("Hello World");
     }
 
 }
